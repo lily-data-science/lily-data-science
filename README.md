@@ -1,8 +1,8 @@
 # Hi. My name is Yunwei (nickname: Lily). 
 
-# I will graduate in May 2022 with a Master in Statistics/ Data Science Concentration at California State University East Bay (current GPA 3.96).  
+### I will graduate in May 2022 with a Master in Statistics/ Data Science Concentration at California State University East Bay (current GPA 3.96).  
 
-# Currently, I am seeking opportunities as a Data Analyst/Data Scientist.
+### Currently, I am seeking opportunities as a Data Analyst/Data Scientist.
 
 The following are some highlight for my skills:
 
