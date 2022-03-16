@@ -16,10 +16,17 @@
 2. Kaggle Project 
 3. Sentiment Prediction
 4. Shiny App
-5. Linear Regression and Logistic Regression Parametric and Non-Parametric Method Comparison
-
+5. Advanced Computational Statistical Methods (Parametric and Nonparametric)
 
 ## 1. Group Project Credit Abinaya, Krina, and Yunwei. Training Data: Mohammad Mahoor PHD. ![Emotion Recognition Mobile App](https://github.com/lily-data-science/Emotion-Recognition/blob/master/facial_emotion_demo.png)
+
+
+## 5. Advanced-Computational-Statistical-Methods
+Parametric and Nonparametric Bootstrap, Monte Carlos, and applied Statistics (Group Project by Yunwei Chang and Lien Tran)
+
+![Emotion Recognition Mobile App](https://github.com/lily-data-science/Advanced-Computational-Statistical-Methods/blob/master/data%20exploration.png)
+
+![Emotion Recognition Mobile App](https://github.com/lily-data-science/Advanced-Computational-Statistical-Methods/blob/master/Bootstrap%20Methods.png) 
 
 <!---
 lily-data-science/lily-data-science is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
