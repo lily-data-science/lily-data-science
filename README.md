@@ -22,6 +22,8 @@
 
 ## 4. Shiny App
 https://yunwei-chang.shinyapps.io/project_chang_yunwei_stat651/
+![Shiny App](https://github.com/lily-data-science/Shiny-App/blob/master/shiny%20app.png)
+
 
 ## 5. Advanced-Computational-Statistical-Methods
 Parametric and Nonparametric Bootstrap, Monte Carlos, and applied Statistics (Group Project by Yunwei Chang and Lien Tran)
