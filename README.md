@@ -20,6 +20,8 @@
 
 ## 1. Group Project Credit Abinaya, Krina, and Yunwei. Training Data: Mohammad Mahoor PHD. ![Emotion Recognition Mobile App](https://github.com/lily-data-science/Emotion-Recognition/blob/master/facial_emotion_demo.png)
 
+## 4. Shiny App
+https://yunwei-chang.shinyapps.io/project_chang_yunwei_stat651/
 
 ## 5. Advanced-Computational-Statistical-Methods
 Parametric and Nonparametric Bootstrap, Monte Carlos, and applied Statistics (Group Project by Yunwei Chang and Lien Tran)
