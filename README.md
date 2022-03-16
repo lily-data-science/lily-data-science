@@ -17,6 +17,7 @@
 3. Sentiment Prediction
 4. Shiny App
 5. Advanced Computational Statistical Methods (Parametric and Nonparametric)
+6. Time Series Plot 
 
 ## 1. Group Project Credit Abinaya, Krina, and Yunwei. Training Data: Mohammad Mahoor PHD. ![Emotion Recognition Mobile App](https://github.com/lily-data-science/Emotion-Recognition/blob/master/facial_emotion_demo.png)
 
@@ -32,6 +33,10 @@ Parametric and Nonparametric Bootstrap, Monte Carlos, and applied Statistics (Gr
 ![Emotion Recognition Mobile App](https://github.com/lily-data-science/Advanced-Computational-Statistical-Methods/blob/master/data%20exploration.png)
 
 ![Emotion Recognition Mobile App](https://github.com/lily-data-science/Advanced-Computational-Statistical-Methods/blob/master/Bootstrap%20Methods.png) 
+
+## 6. Time Series Plot
+ggplot and geom_text 
+
 
 <!---
 lily-data-science/lily-data-science is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
