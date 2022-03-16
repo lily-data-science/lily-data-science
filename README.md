@@ -38,6 +38,10 @@ Parametric and Nonparametric Bootstrap, Monte Carlos, and applied Statistics (Gr
 ggplot and geom_text 
 
 
+![Time Series Plot](https://github.com/lily-data-science/Time-Series-Plot/blob/master/TimeSeries2.png)
+![Time Series Plot](https://github.com/lily-data-science/Time-Series-Plot/blob/master/TimeSeries1.png)
+
+
 <!---
 lily-data-science/lily-data-science is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
