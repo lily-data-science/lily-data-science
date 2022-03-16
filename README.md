@@ -2,7 +2,7 @@
 
 ### I will graduate in May 2022 with a Master in Statistics/ Data Science Concentration at California State University East Bay (current GPA 3.96).  
 
-The following are some highlight for my skills:
+### The following are some highlight for my skills:
 
 1. Machine Learning (i.e. random forest) and Neural Network coding and set up for a supervised or unsupervised predictive model 
 2. Computer Vision coding on android developer for creating a mobile app in image detection and recognition using deep learning method, such as Efficient net.
@@ -11,7 +11,7 @@ The following are some highlight for my skills:
 5. Automation Tool: Power Automate 
 6. Statistics Knowledge in Data Distribution (i.e. Gamma Distribution, Normal Distribution, Binomial Distribution) and calculate Maximum Likelihood or Method of Moment. Creating a Multivariate Analysis using linear, logistic, or non parametric regression methods. Baysian Statistics. Random Effect. Nesting. Confidence Interval. Hypothesis testing. 
 
-Projects:
+### Projects:
 1. Group project on an emotion recognition mobile application 
 2. Kaggle Project 
 3. Sentiment Prediction
