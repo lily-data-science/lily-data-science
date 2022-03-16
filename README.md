@@ -18,6 +18,7 @@
 4. Shiny App
 5. Advanced Computational Statistical Methods (Parametric and Nonparametric)
 6. Time Series Plot 
+7. Geographical Graphs (both Interactive and non-interactive)
 
 ## 1. Group Project Credit Abinaya, Krina, and Yunwei. Training Data: Mohammad Mahoor PHD. ![Emotion Recognition Mobile App](https://github.com/lily-data-science/Emotion-Recognition/blob/master/facial_emotion_demo.png)
 
@@ -41,6 +42,7 @@ ggplot and geom_text
 ![Time Series Plot](https://github.com/lily-data-science/Time-Series-Plot/blob/master/TimeSeries2.png)
 ![Time Series Plot](https://github.com/lily-data-science/Time-Series-Plot/blob/master/TimeSeries1.png)
 
+## 7. Geographical Plot
 
 <!---
 lily-data-science/lily-data-science is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
