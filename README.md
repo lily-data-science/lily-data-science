@@ -16,6 +16,7 @@
 2. Kaggle Project 
 3. Sentiment Prediction
 4. Shiny App
+5. Linear Regression and Logistic Regression Parametric and Non-Parametric Method Comparison
 
 
 ## 1. Group Project Credit Abinaya, Krina, and Yunwei. Training Data: Mohammad Mahoor PHD. ![Emotion Recognition Mobile App](https://github.com/lily-data-science/Emotion-Recognition/blob/master/facial_emotion_demo.png)
