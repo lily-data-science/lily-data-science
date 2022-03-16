@@ -22,6 +22,7 @@
 
 ## 4. Shiny App
 https://yunwei-chang.shinyapps.io/project_chang_yunwei_stat651/
+Hosted on Shinyapp.io website
 ![Shiny App](https://github.com/lily-data-science/Shiny-App/blob/master/shiny%20app.png)
 
 
