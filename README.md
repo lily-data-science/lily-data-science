@@ -1,14 +1,22 @@
-Hi. My name is Yunwei Chang (Lily). 
+Hi. My name is Yunwei (nickname: Lily). 
+I will graduate in May 2022 with a Master in Statistics/ Data Science Concentration at California State University East Bay (current GPA 3.96).  
 
-I am currently pursuing a Master’s degree in Statistics with Data Science concentration from California State University, East Bay at Hayward,CA. 
+Currently, I am seeking opportunities as a Data Analyst/Data Scientist.
 
-Currently I am seeking opportunities as a Data Analyst/Data Scientist.
+The following are some highlight for my skills:
 
-I have a solid background in data analysis and statistical modeling. With a deep understanding in statistical theories, I have also completed several data analysis and data science projects applying statistical methods in R and Python with large datasets. These projects involve several parts of data analysis such as deep learning method, large data preprocessing, exploratory analysis, hypothesis testing, regression (machine learning), data mining, data visualization and data manipulation with SQL.
+1. Machine Learning (i.e. random forest) and Neural Network coding and set up for a supervised or unsupervised predictive model 
+2. Computer Vision coding on android developer for creating a mobile app in image detection and recognition using deep learning method, such as Efficient net.
+3. Visualization Tool: Tableau, Shiny R app, Power BI, Visio, Spotfire, Visio
+4. Data Analysis Tool: Python, R programming, SAS, SQL, SIMCA 
+5. Automation Tool: Power Automate 
+6. Statistics Knowledge in Data Distribution (i.e. Gamma Distribution, Normal Distribution, Binomial Distribution) and calculate Maximum Likelihood or Method of Moment. Creating a Multivariate Analysis using linear, logistic, or non parametric regression methods. Baysian Statistics. Random Effect. Nesting. Confidence Interval. Hypothesis testing. 
 
-Moreover, I have several projects on computer vision research and on mobile application. The mobile application involves an interface, image detection and recognition method, and deep learning method output. 
-
-
+Projects:
+1. Group project on an emotion recognition mobile application 
+2. Kaggle Project 
+3. Sentiment Prediction
+4. Shiny App
 
 <!---
 lily-data-science/lily-data-science is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
