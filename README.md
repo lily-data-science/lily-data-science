@@ -53,6 +53,8 @@ ggplot and geom_text
 ![Time Series Plot](https://github.com/lily-data-science/Time-Series-Plot/blob/master/TimeSeries1.png)
 
 ## 7. Geographical Plot
+Connected to Google API interactive and non interactive plots
+![GeographicPlot](https://github.com/lily-data-science/Geographical-Plots/blob/master/geographicplot.png)
 
 <!---
 lily-data-science/lily-data-science is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
