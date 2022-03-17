@@ -22,6 +22,16 @@
 
 ## 1. Group Project Credit Abinaya, Krina, and Yunwei. Training Data: Mohammad Mahoor PHD. ![Emotion Recognition Mobile App](https://github.com/lily-data-science/Emotion-Recognition/blob/master/facial_emotion_demo.png)
 
+## 3. Sentiment Review on Movie Analysis (Natural Language Processing)
+
+**Accuracy is 95.03935% on 12500 movie reviews (Test case) Training Data Set: 25000 movie reviews**
+Source: https://ai.stanford.edu/~amaas/data/sentiment/
+**Build a sentiment analysis model using multiple linear regression and naive bay with different vectorization methods, such as bigram, normalization, and feature hashing. Compare each method's accuracy and come up with the best model.**
+
+![CrossTable](https://github.com/lily-data-science/Senitiment-Review-Movie-Analysis/blob/master/test_crosstable.png)
+
+![AUC-ROC Graph](https://github.com/lily-data-science/Senitiment-Review-Movie-Analysis/blob/master/AUC%20.png)
+
 ## 4. Shiny App
 https://yunwei-chang.shinyapps.io/project_chang_yunwei_stat651/
 Hosted on Shinyapp.io website
