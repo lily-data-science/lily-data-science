@@ -25,7 +25,7 @@
 ## 3. Sentiment Review on Movie Analysis (Natural Language Processing)
 
 **Accuracy is 95.03935% on 12500 movie reviews (Test case) Training Data Set: 25000 movie reviews**
-Source: https://ai.stanford.edu/~amaas/data/sentiment/
+**DataSource: https://ai.stanford.edu/~amaas/data/sentiment/**
 **Build a sentiment analysis model using multiple linear regression and naive bay with different vectorization methods, such as bigram, normalization, and feature hashing. Compare each method's accuracy and come up with the best model.**
 
 ![CrossTable](https://github.com/lily-data-science/Senitiment-Review-Movie-Analysis/blob/master/test_crosstable.png)
