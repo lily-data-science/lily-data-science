@@ -19,6 +19,7 @@
 5. Advanced Computational Statistical Methods (Parametric and Nonparametric)
 6. Time Series Plot 
 7. Geographical Graphs (both Interactive and non-interactive)
+8. Word Cloud and Topic ranking by Frequency 
 
 ## 1. Group Project Credit Abinaya, Krina, and Yunwei. Training Data: Mohammad Mahoor PHD. ![Emotion Recognition Mobile App](https://github.com/lily-data-science/Emotion-Recognition/blob/master/facial_emotion_demo.png)
 
@@ -55,6 +56,15 @@ ggplot and geom_text
 ## 7. Geographical Plot
 Connected to Google API interactive and non interactive plots
 ![GeographicPlot](https://github.com/lily-data-science/Geographical-Plots/blob/master/geographicplot.png)
+
+# 8. Text_Modeling
+**Perform various unsupervised method to text modeling popular books and SMS messages**
+
+**Common word choices by gender in Jane Austen's book**
+![Topic Modeling](https://github.com/lily-data-science/Text-Modeling/blob/master/topic%20modeling.png)
+
+**Word Cloud from Short Message Services**
+![Word Cloud](https://github.com/lily-data-science/Text-Modeling/blob/master/WordCloud.png)
 
 <!---
 lily-data-science/lily-data-science is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
