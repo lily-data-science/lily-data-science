@@ -57,7 +57,7 @@ Connected to Google API interactive and non interactive plots
 ![GeographicPlot](https://github.com/lily-data-science/Geographical-Plots/blob/master/geographicplot.png)
 
 # 8. Text_Modeling
-**Perform various unsupervised method to text modeling popular books and SMS messages**
+Perform various unsupervised method to text modeling popular books and SMS messages
 
 **Common word choices by gender in Jane Austen's book**
 ![Topic Modeling](https://github.com/lily-data-science/Text-Modeling/blob/master/topic%20modeling.png)
