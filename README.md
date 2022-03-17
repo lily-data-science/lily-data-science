@@ -12,7 +12,7 @@
 6. Statistics Knowledge in Data Distribution (i.e. Gamma Distribution, Normal Distribution, Binomial Distribution) and calculate Maximum Likelihood or Method of Moment. Creating a Multivariate Analysis using linear, logistic, or non parametric regression methods. Baysian Statistics. Random Effect. Nesting. Confidence Interval. Hypothesis testing. 
 
 ### Projects:
-1. Group project on an emotion recognition mobile application 
+1. Neural Network Computer Vision Mobile App
 2. Kaggle Project 
 3. Sentiment Prediction
 4. Shiny App
@@ -21,9 +21,12 @@
 7. Geographical Graphs (both Interactive and non-interactive)
 8. Word Cloud and Topic ranking by Frequency 
 
-## 1. Group Project Credit Abinaya, Krina, and Yunwei. Training Data: Mohammad Mahoor PHD. ![Emotion Recognition Mobile App](https://github.com/lily-data-science/Emotion-Recognition/blob/master/facial_emotion_demo.png)
+## 1. Neural Network Computer VIsion Mobile App 
 
-## 2. Kaggle Project
+Group Project Credit Abinaya, Krina, and Yunwei. Training Data: Mohammad Mahoor PHD. ![Emotion Recognition Mobile App](https://github.com/lily-data-science/Emotion-Recognition/blob/master/facial_emotion_demo.png)
+
+## 2a. Kaggle Project Machine Learning
+
 ### Titanic Model Selection Project (Null, KNN, C50, random forest, multiple linear regression, and Naive Bayes)
 
 In this Kaggle project, models used include: Null, KNN, C50, random forest, multiple linear regression, and Naive Bayes. In the end, we pick random forest as the best model with the highest accuracy, 85.96% accuracy.
@@ -38,6 +41,11 @@ Testing data set: 178 without survivor information from Titanic on Kaggle.
 ### ROC curve for different machine learning methods. Random Forest has the highest accuracy.
 ![ROC curves](https://github.com/lily-data-science/Kaggle-Dataset---Machine-Learning-Null-KNN-C50-random-forest-multiple-linear-regression/blob/master/randomforest3.png)
 
+## 2b. Kaggle Project Machine Learning
+
+### Lending Club Data (accuracy is 99.83466% using Random Forest Method) 
+**Training Data: 308455 observations**
+**Testing Data: 102818 observations**
 
 ## 3. Sentiment Review on Movie Analysis (Natural Language Processing)
 
