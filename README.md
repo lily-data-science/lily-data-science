@@ -43,7 +43,7 @@ Testing data set: 178 without survivor information from Titanic on Kaggle.
 
 ## 2b. Kaggle Project Machine Learning
 
-### Lending Club Data (accuracy is 99.83466% using Random Forest Method) 
+### Lending Club Data (Training: 308455 observations Testing: 102818 observations accuracy: 99.83466% Random Forest Method) 
 **Training Data: 308455 observations**
 **Testing Data: 102818 observations**
 
