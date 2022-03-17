@@ -12,42 +12,21 @@
 6. Statistics Knowledge in Data Distribution (i.e. Gamma Distribution, Normal Distribution, Binomial Distribution) and calculate Maximum Likelihood or Method of Moment. Creating a Multivariate Analysis using linear, logistic, or non parametric regression methods. Baysian Statistics. Random Effect. Nesting. Confidence Interval. Hypothesis testing. 
 
 ### Projects:
-1. Neural Network Computer Vision Mobile App
-2. Kaggle Project 
-3. Sentiment Prediction
-4. Shiny App
+
+1. Kaggle Project 
+2. Sentiment Prediction
+3. Shiny App
+4. Neural Network Computer Vision Mobile App
 5. Advanced Computational Statistical Methods (Parametric and Nonparametric)
 6. Time Series Plot 
 7. Geographical Graphs (both Interactive and non-interactive)
 8. Word Cloud and Topic ranking by Frequency 
 
-## 1. Neural Network Computer VIsion Mobile App 
-
-Group Project Credit Abinaya, Krina, and Yunwei. Training Data: Mohammad Mahoor PHD. ![Emotion Recognition Mobile App](https://github.com/lily-data-science/lily-data-science/blob/master/facial_emotion_demo.png)
-
-YouTube on the Project: https://www.youtube.com/watch?v=o9_X97cZXmA
-
-## 2a. Kaggle Project Machine Learning
-
-### Titanic Model Selection Project (Null, KNN, C50, random forest, multiple linear regression, and Naive Bayes)
-
-In this Kaggle project, models used include: Null, KNN, C50, random forest, multiple linear regression, and Naive Bayes. In the end, we pick random forest as the best model with the highest accuracy, 85.96% accuracy.
-
-Training data set: 713 observations with survivor information from Titanic
-Testing data set: 178 without survivor information from Titanic on Kaggle.
-
-
-### Boxplots show gender is the most important factor determining if a person survive from Titanic incidence 
-![boxplot](https://github.com/lily-data-science/lily-data-science/blob/master/randomforest2.png)
-
-### ROC curve for different machine learning methods. Random Forest has the highest accuracy.
-![ROC curves](https://github.com/lily-data-science/lily-data-science/blob/master/randomforest3.png)
-
-## 2b. Kaggle Project Machine Learning
+## 1. Kaggle Project Machine Learning
 
 ### Lending Club Data (Training: 308455 observations Testing: 102818 observations accuracy: 99.83466% Random Forest Method) 
 
-## 3. Sentiment Review on Movie Analysis (Natural Language Processing)
+## 2. Sentiment Review on Movie Analysis (Natural Language Processing)
 
 **Accuracy is 95.03935% on 12500 movie reviews (Test case) Training Data Set: 25000 movie reviews**
 **DataSource: https://ai.stanford.edu/~amaas/data/sentiment/**
@@ -57,11 +36,16 @@ Testing data set: 178 without survivor information from Titanic on Kaggle.
 
 ![AUC-ROC Graph](https://github.com/lily-data-science/lily-data-science/blob/master/AUC%20.png)
 
-## 4. Shiny App
+## 3. Shiny App
 https://yunwei-chang.shinyapps.io/project_chang_yunwei_stat651/
 Hosted on Shinyapp.io website
 ![Shiny App](https://github.com/lily-data-science/lily-data-science/blob/master/shiny%20app.png)
 
+## 4. Neural Network Computer VIsion Mobile App 
+
+Group Project Credit Abinaya, Krina, and Yunwei. Training Data: Mohammad Mahoor PHD. ![Emotion Recognition Mobile App](https://github.com/lily-data-science/lily-data-science/blob/master/facial_emotion_demo.png)
+
+YouTube on the Project: https://www.youtube.com/watch?v=o9_X97cZXmA
 
 ## 5. Advanced-Computational-Statistical-Methods
 Parametric and Nonparametric Bootstrap, Monte Carlos, and applied Statistics (Group Project by Yunwei Chang and Lien Tran)
