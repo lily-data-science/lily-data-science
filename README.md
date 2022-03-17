@@ -51,7 +51,6 @@ ggplot and geom_text
 
 
 ![Time Series Plot](https://github.com/lily-data-science/Time-Series-Plot/blob/master/TimeSeries2.png)
-![Time Series Plot](https://github.com/lily-data-science/Time-Series-Plot/blob/master/TimeSeries1.png)
 
 ## 7. Geographical Plot
 Connected to Google API interactive and non interactive plots
