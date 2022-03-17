@@ -23,6 +23,22 @@
 
 ## 1. Group Project Credit Abinaya, Krina, and Yunwei. Training Data: Mohammad Mahoor PHD. ![Emotion Recognition Mobile App](https://github.com/lily-data-science/Emotion-Recognition/blob/master/facial_emotion_demo.png)
 
+## 2. Kaggle Project
+### Titanic Model Selection Project (Null, KNN, C50, random forest, multiple linear regression, and Naive Bayes)
+
+In this Kaggle project, models used include: Null, KNN, C50, random forest, multiple linear regression, and Naive Bayes. In the end, we pick random forest as the best model with the highest accuracy, 85.96% accuracy.
+
+Training data set: 713 observations with survivor information from Titanic
+Testing data set: 178 without survivor information from Titanic on Kaggle.
+
+
+### Boxplots show gender is the most important factor determining if a person survive from Titanic incidence 
+![boxplot](https://github.com/lily-data-science/Kaggle-Dataset---Machine-Learning-Null-KNN-C50-random-forest-multiple-linear-regression/blob/master/randomforest2.png)
+
+### ROC curve for different machine learning methods. Random Forest has the highest accuracy.
+![ROC curves](https://github.com/lily-data-science/Kaggle-Dataset---Machine-Learning-Null-KNN-C50-random-forest-multiple-linear-regression/blob/master/randomforest3.png)
+
+
 ## 3. Sentiment Review on Movie Analysis (Natural Language Processing)
 
 **Accuracy is 95.03935% on 12500 movie reviews (Test case) Training Data Set: 25000 movie reviews**
