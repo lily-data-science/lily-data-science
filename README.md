@@ -25,6 +25,8 @@
 
 Group Project Credit Abinaya, Krina, and Yunwei. Training Data: Mohammad Mahoor PHD. ![Emotion Recognition Mobile App](https://github.com/lily-data-science/lily-data-science/blob/master/facial_emotion_demo.png)
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o9_X97cZXmA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ## 2a. Kaggle Project Machine Learning
 
 ### Titanic Model Selection Project (Null, KNN, C50, random forest, multiple linear regression, and Naive Bayes)
