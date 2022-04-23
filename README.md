@@ -37,6 +37,7 @@
 ![AUC-ROC Graph](https://github.com/lily-data-science/lily-data-science/blob/master/AUC%20.png)
 
 ## 3. Shiny App
+Created an R package "eyeUSA" using devtools and build function 
 https://yunwei-chang.shinyapps.io/project_chang_yunwei_stat651/
 Hosted on Shinyapp.io website
 ![Shiny App](https://github.com/lily-data-science/lily-data-science/blob/master/shiny%20app.png)
