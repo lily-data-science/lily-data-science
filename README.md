@@ -37,10 +37,17 @@
 ![AUC-ROC Graph](https://github.com/lily-data-science/lily-data-science/blob/master/AUC%20.png)
 
 ## 3. Shiny App
-Created an R package "eyeUSA" using devtools and build function 
-https://yunwei-chang.shinyapps.io/project_chang_yunwei_stat651/
-Hosted on Shinyapp.io website
-![Shiny App](https://github.com/lily-data-science/lily-data-science/blob/master/shiny%20app.png)
+
+# Shiny-App
+This is an interactive app that creates visualization on rate of vision problems, such as diabetic retinopathy or glaucoma, by ethnicity or age.
+It also has a predictive model to predict the rate of US population of having the eye problem based on National Eye Institute data.
+
+https://yunwei-chang.shinyapps.io/eyeUSA/
+
+![](eyeUSA1.png)
+
+
+![](eyeUSA2.png)
 
 ## 4. Neural Network Computer VIsion Mobile App 
 
