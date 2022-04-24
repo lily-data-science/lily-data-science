@@ -43,10 +43,10 @@ It also has a predictive model to predict the rate of US population of having th
 
 https://yunwei-chang.shinyapps.io/eyeUSA/
 
-![](https://github.com/lily-data-science/lily-data-science/Shiny-App/eyeUSA1.png)
+![](https://github.com/lily-data-science/Shiny-App/blob/master/eyeUSA1.png)
 
 
-![](https://github.com/lily-data-science/lily-data-science/Shiny-App/eyeUSA2.png)
+![](https://github.com/lily-data-science/Shiny-App/blob/master/eyeUSA2.png)
 
 ## 4. Neural Network Computer VIsion Mobile App 
 
