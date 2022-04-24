@@ -38,16 +38,15 @@
 
 ## 3. Shiny App
 
-# Shiny-App
 This is an interactive app that creates visualization on rate of vision problems, such as diabetic retinopathy or glaucoma, by ethnicity or age.
 It also has a predictive model to predict the rate of US population of having the eye problem based on National Eye Institute data.
 
 https://yunwei-chang.shinyapps.io/eyeUSA/
 
-![](eyeUSA1.png)
+![](/Shiny-App/eyeUSA1.png)
 
 
-![](eyeUSA2.png)
+![](/Shiny-App/eyeUSA2.png)
 
 ## 4. Neural Network Computer VIsion Mobile App 
 
