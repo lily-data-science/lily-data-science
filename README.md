@@ -55,10 +55,10 @@ Vision Report app uses both computer vision OCR function and PDF reader to autom
 https://yunwei-chang.shinyapps.io/VisionReport/
 
 
-![](https://github.com/lily-data-science/Shiny-App/blob/master/eyeUSA1.png)
+![](https://github.com/lily-data-science/Shiny-App/blob/master/visionReport2.jpg)
 
 
-![](https://github.com/lily-data-science/Shiny-App/blob/master/eyeUSA2.png)
+![](https://github.com/lily-data-science/Shiny-App/blob/master/visionReport1.jpg)
 
 
 ## 4. Neural Network Computer VIsion Mobile App 
