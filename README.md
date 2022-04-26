@@ -15,7 +15,7 @@
 
 1. Kaggle Project 
 2. Sentiment Prediction
-3. Shiny App
+3. Shiny Apps
 4. Neural Network Computer Vision Mobile App
 5. Advanced Computational Statistical Methods (Parametric and Nonparametric)
 6. Time Series Plot 
@@ -38,15 +38,28 @@
 
 ## 3. Shiny App
 
-This is an interactive app that creates visualization on rate of vision problems, such as diabetic retinopathy or glaucoma, by ethnicity or age.
-It also has a predictive model to predict the rate of US population of having the eye problem based on National Eye Institute data.
+These are interactive app that creates visualization and reports on rate of vision problems, such as diabetic retinopathy or glaucoma, by ethnicity or age.
+EyeUSA app has a predictive model to predict the rate of US population of having the eye problem based on National Eye Institute data.
 
 https://yunwei-chang.shinyapps.io/eyeUSA/
+
 
 ![](https://github.com/lily-data-science/Shiny-App/blob/master/eyeUSA1.png)
 
 
 ![](https://github.com/lily-data-science/Shiny-App/blob/master/eyeUSA2.png)
+
+
+Vision Report app uses both computer vision OCR function and PDF reader to automatically create customized patient educational report based on patient eye exam summary.
+
+https://yunwei-chang.shinyapps.io/VisionReport/
+
+
+![](https://github.com/lily-data-science/Shiny-App/blob/master/eyeUSA1.png)
+
+
+![](https://github.com/lily-data-science/Shiny-App/blob/master/eyeUSA2.png)
+
 
 ## 4. Neural Network Computer VIsion Mobile App 
 
