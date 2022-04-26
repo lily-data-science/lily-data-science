@@ -55,8 +55,8 @@ https://yunwei-chang.shinyapps.io/eyeUSA/
 Vision Report app uses both computer vision OCR function and PDF reader to automatically create customized patient educational report based on patient eye exam summary.
 
 https://yunwei-chang.shinyapps.io/VisionReport/
-
-![](https://github.com/lily-data-science/lily-data-science/blob/master/visionReport1.jpg)
+![](https://github.com/lily-data-science/lily-data-science/blob/master/visionReport2.jpg)
+![](https://github.com/lily-data-science/lily-data-science/blob/master/visionReport2.png)
 
 
 ## 4. Neural Network Computer VIsion Mobile App 
