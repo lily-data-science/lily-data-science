@@ -59,7 +59,7 @@ https://yunwei-chang.shinyapps.io/VisionReport/
 
 
 
-![](https://github.com/lily-data-science/lily-data-science/blob/master/visionReport2.jpg)
+![](https://github.com/lily-data-science/lily-data-science/blob/master/visionReport1.png)
 
 ![](https://github.com/lily-data-science/lily-data-science/blob/master/VisionReport2.png)
 
