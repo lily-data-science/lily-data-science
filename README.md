@@ -66,7 +66,7 @@ https://yunwei-chang.shinyapps.io/VisionReport/
 ![](https://github.com/lily-data-science/lily-data-science/blob/master/VisionReport2.png)
 
 
-## 4. Neural Network Computer VIsion Mobile App 
+## 4. Neural Network Computer Vision Mobile App 
 
 Group Project Credit Abinaya, Krina, and Yunwei. Training Data: Mohammad Mahoor PHD. ![Emotion Recognition Mobile App](https://github.com/lily-data-science/lily-data-science/blob/master/facial_emotion_demo.png)
 
