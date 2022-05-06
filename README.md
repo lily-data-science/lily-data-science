@@ -38,8 +38,8 @@
 
 ## 3. Shiny App (eyeUSA)
 
-These are interactive app that creates visualization and reports on rate of vision problems, such as diabetic retinopathy or glaucoma, by ethnicity or age.
-EyeUSA app has a predictive model to predict the rate of US population of having the eye problem based on National Eye Institute data.
+These are interactive app that creates visualization and reports on rate of vision problems, such as diabetic retinopathy or glaucoma, by gender or age.
+EyeUSA app has a predictive model to predict the rate of US population of having the eye problem based on National Eye Institute funded data.
 
 https://yunwei-chang.shinyapps.io/eyeUSA/
 
@@ -52,7 +52,7 @@ https://yunwei-chang.shinyapps.io/eyeUSA/
 
 ## 3. Shiny App (Vision Report)
 
-Vision Report app uses both computer vision OCR function and PDF reader to automatically create customized patient educational report based on patient eye exam summary.
+Vision Report app uses both computer vision OCR function and PDF reader to automatically create customized patient educational report based on patient eye exam summary text extraction.
 
 
 https://yunwei-chang.shinyapps.io/VisionReport/
