@@ -11,7 +11,7 @@
 5. Automation Tool: Power Automate 
 6. Statistics Knowledge in Data Distribution (i.e. Gamma Distribution, Normal Distribution, Binomial Distribution) and calculate Maximum Likelihood or Method of Moment. Creating a Multivariate Analysis using linear, logistic, or non parametric regression methods. Baysian Statistics. Random Effect. Nesting. Confidence Interval. Hypothesis testing. 
 
-### Projects:
+### Highlighted Projects:
 
 1. Kaggle Project 
 2. Sentiment Prediction
