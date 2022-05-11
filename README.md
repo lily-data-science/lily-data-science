@@ -47,7 +47,7 @@ https://yunwei-chang.shinyapps.io/eyeUSA/
 ![](https://github.com/lily-data-science/Shiny-App/blob/master/eyeUSA1.png)
 
 
-![](https://github.com/lily-data-science/Shiny-App/blob/master/eyeUSA2.png)
+![](https://github.com/lily-data-science/Shiny-App/blob/master/eyeUSAimg.png)
 
 
 ## 3. Shiny App (Vision Report)
